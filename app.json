@@ -11,10 +11,10 @@
     "page/component/search/search"
   ],
   "window": {
-    "navigationBarTextStyle": "white",
+    "navigationBarTextStyle": "black",
     "navigationBarTitleText": "特牧商城",
-    "navigationBarBackgroundColor": "#AB956D",
-    "backgroundColor": "#eeeeee",
+    "navigationBarBackgroundColor": "#f4f4f4",
+    "backgroundColor": "#b7b7b7",
     "enablePullDownRefresh": true
   },
   "tabBar": {
