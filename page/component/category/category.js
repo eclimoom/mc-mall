@@ -1,12 +1,12 @@
 Page({
     data: {
-        category: [
-            {name:'果味',id:'guowei'},
-            {name:'蔬菜',id:'shucai'},
-            {name:'炒货',id:'chaohuo'},
-            {name:'点心',id:'dianxin'},
-            {name:'粗茶',id:'cucha'},
-            {name:'淡饭',id:'danfan'}
+      category: [
+            { name: '纯牛奶', id: 'danfan' },
+            {name:'全脂',id:'guowei'},
+            {name:'高钙',id:'shucai'},
+            {name:'无糖',id:'chaohuo'},
+            {name:'奶片',id:'dianxin'},
+            {name:'酸奶',id:'cucha'}
         ],
         detail:[],
         curIndex: 0,

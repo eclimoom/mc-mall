@@ -75,15 +75,15 @@
             <view class="newest-list">
                 <navigator url="details/details">
                     <image src="/image/s5.jpg"></image>
-                    <view class="newest-text"><text>全脂纯牛奶 250ml*24盒 375g</text></view>
-                    <view class="newest-text"><text>￥ 45</text></view>
+                    <view class="newest-text"><text>全脂纯牛奶</text></view>
+                    <view class="newest-text"><text>250ml/24盒 ￥ 45</text></view>
                 </navigator>
             </view>
             <view class="newest-list">
                 <navigator url="details/details">
                     <image src="/image/s1.jpg"></image>
-                    <view class="newest-text"><text>全脂高钙早餐纯牛奶250ml*24盒 箱</text></view>
-                    <view class="newest-text"><text>￥ 0.01</text></view>
+                    <view class="newest-text"><text>高钙早餐纯牛奶</text></view>
+                    <view class="newest-text"><text>250ml/24盒 ￥ 50</text></view>
                 </navigator>
             </view>
         </view>

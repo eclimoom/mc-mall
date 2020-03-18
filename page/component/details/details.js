@@ -4,10 +4,10 @@ Page({
     goods: {
       id: 1,
       image: '/image/goods1.png',
-      title: '新鲜梨花带雨',
+      title: '高钙纯牛奶',
       price: 0.01,
       stock: '有货',
-      detail: '这里是梨花带雨详情。',
+      detail: '这里是高钙纯牛奶详情。',
       parameter: '125g/个',
       service: '不支持退货'
     },

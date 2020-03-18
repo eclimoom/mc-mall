@@ -61,9 +61,9 @@ swiper-item image {
     margin-right: 0;
 }
 .newest-box .newest-list image{
-    width: 175rpx;
-    height: 175rpx;
-    margin: 20rpx 0 10rpx;
+    width: 195rpx;
+    height: 195rpx;
+    margin: 10rpx 0 10rpx;
 }
 .newest-box .newest-list .newest-text{
     font-size: 32rpx;

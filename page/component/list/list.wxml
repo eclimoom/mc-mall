@@ -6,23 +6,23 @@
     <view class="list-box">
         <view class="newest-list">
             <navigator url="../details/details">
-                <image src="/image/s4.png"></image>
-                <view class="newest-text"><text>瓜子 100g</text></view>
-                <view class="newest-text"><text>￥ 0.01</text></view>
+                <image src="/image/s4.jpg"></image>
+                <view class="newest-text"><text>纯牛奶 100g</text></view>
+                <view class="newest-text"><text>￥ 50</text></view>
             </navigator>
         </view>
         <view class="newest-list">
             <navigator url="../details/details">
-                <image src="/image/s5.png"></image>
-                <view class="newest-text"><text>芹菜 半斤</text></view>
-                <view class="newest-text"><text>￥ 0.02</text></view>
+                <image src="/image/s5.jpg"></image>
+                <view class="newest-text"><text>全脂纯牛奶 </text></view>
+                <view class="newest-text"><text>￥ 40</text></view>
             </navigator>
         </view>
         <view class="newest-list">
             <navigator url="../details/details">
-                <image src="/image/s6.png"></image>
-                <view class="newest-text"><text>素米 375g</text></view>
-                <view class="newest-text"><text>￥ 0.03</text></view>
+                <image src="/image/s2.jpg"></image>
+                <view class="newest-text"><text>高钙纯牛奶  375g</text></view>
+                <view class="newest-text"><text>￥ 42</text></view>
             </navigator>
         </view>
     </view>
