@@ -1,8 +1,8 @@
 # wxmuchang-mall
-微信牧场小程序 （uni-app 版本的代码请看[uni分支](可打包成APP、小程序、H5）
+微信牧场小程序
 
 ## 前言
-微信牧场小程序开源。看到上面已经贴了个小程序二维码demo，既然有了，那就来照着做一个练练手吧。
+微信牧场小程序开源,练手。
 
 ## 功能
 - [x] 首页
@@ -16,7 +16,7 @@
 - [x] 地址管理
 
 ## 实现效果
-![image](https://raw.githubusercontent.com/lin-xin/mini-apps-mall/master/image/s3.jpg) 
+![image](https://github.com/eclimoom/mc-mall/tree/master/image/s3.jpg) 
 
 ## 运行
 需要安装有微信开发者工具。
