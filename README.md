@@ -15,6 +15,11 @@
 - [x] 订单
 - [x] 地址管理
 
+todo:
+api设计
+后台管理
+支付
+
 ## 实现效果
 ![image](https://github.com/eclimoom/mc-mall/tree/master/image/s3.jpg) 
 
